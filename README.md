@@ -1,4 +1,4 @@
-<h1>This Discord bot responds to specific commands and performs actions like responding to greetings, deleting messages in a channel, and replying with a "pong" message.</h1>
+This Discord bot responds to specific commands and performs actions like responding to greetings, deleting messages in a channel, and replying with a "pong" message.
 
 Features:-
 <li>Responds to greetings ("Hi" or "Hello").</li>
